@@ -1,0 +1,16 @@
+{
+  "name": "card_validity",
+  "version": "1.0.0",
+  "description": "Card validity training task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start" : "parcel site.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
